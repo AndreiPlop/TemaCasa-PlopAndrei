@@ -1,0 +1,4 @@
+[
+    {"utilizator":"andrei","parola":"nebunul","nume":"Plop","prenume":"Andrei","admin":"0"},
+    {"utilizator":"admin","parola":"asdf","admin":"1"}
+]

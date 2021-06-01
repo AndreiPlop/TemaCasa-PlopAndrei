@@ -1,0 +1,18 @@
+[
+    {
+        "intrebare": "Cine va castiga duelul Petkovic A.- Halep S.?",
+         "variante": ["1-(5.70)" , "2-(1.20)"] 
+     },
+     {
+         "intrebare": "Cine va castiga duelul Alexandrova E.- Williams V.?",
+         "variante": ["1-(1.11)" , "2-(7.00)"] 
+     },
+     {
+         "intrebare": "Cine va castiga duelul Kontaveit A.- Golubic V.?",
+         "variante": ["1-(1.42)" , "2-(2.85)"] 
+     },
+     {
+         "intrebare": "Cine va castiga duelul Djokovic N.- Nadal R.?",
+         "variante": ["1-(1.86)" , "2-(2.00)"]  
+     }
+]
